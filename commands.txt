@@ -78,3 +78,9 @@ show all logged on users, (names and tty)
 
 whoami
 show current logged in user. (name)
+
+cat /etc/shells
+List of available shells on the system
+
+sudo
+administrative privelages
