@@ -82,5 +82,17 @@ show current logged in user. (name)
 cat /etc/shells
 List of available shells on the system
 
+chsh -s /usr/bin/bash
+change shell
+
 sudo
 administrative privelages
+
+apt-get install
+install new packages
+
+apt-get upgrade 
+run upgrades on already installed packages
+
+&&
+run many commands in sequence
