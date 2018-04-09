@@ -96,3 +96,4 @@ run upgrades on already installed packages
 
 &&
 run many commands in sequence
+apt-get install && apt-get upgrade && ls -l
