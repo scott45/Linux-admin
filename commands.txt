@@ -19,10 +19,13 @@ ps aux | grep process_name
 df -h 
 
 date
+check date (day, time, year, timezone)
 
 time
+check current time
 
 cd ..
+Go back a single step to previous directory
 
 cd ~  
 go to home directory
