@@ -9,14 +9,19 @@ vim file_name
 rename old_file_name new_file_name
 
 'process / file_name' > file_name 
+append to a file
 
 'process / file_name' >> file_name 
+Overwrite a file
 
 ps 
+see running processes
 
 ps aux | grep process_name
+filter a particular running process 
 
 df -h 
+check disk space usage
 
 date
 check date (day, time, year, timezone)
