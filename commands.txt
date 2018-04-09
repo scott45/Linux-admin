@@ -75,3 +75,6 @@ display and update sorted info about processes
 
 who
 show all logged on users, (names and tty)
+
+whoami
+show current logged in user. (name)
