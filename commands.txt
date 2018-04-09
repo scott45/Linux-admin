@@ -54,7 +54,9 @@ less file_name
 paging data of a file
 
 sort
-organizing output
+organizing output in order
+sort -r 
+organize output in reverse order
 
 ls 
 directory listings
@@ -62,3 +64,14 @@ directory listings
 rm 
 delete
 
+find
+locate files
+
+grep
+filter
+
+top 
+display and update sorted info about processes
+
+who
+show all logged on users, (names and tty)
