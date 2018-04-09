@@ -17,3 +17,12 @@ ps
 ps aux | grep process_name
 
 df -h 
+
+date
+
+time
+
+cd ..
+
+cd ~ 
+
