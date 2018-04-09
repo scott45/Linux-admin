@@ -1,0 +1,7 @@
+mkdir
+
+cd dir_name
+
+touch file_name
+
+vim file_name
