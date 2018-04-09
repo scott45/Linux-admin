@@ -8,9 +8,9 @@ vim file_name
 
 rename old_file_name new_file_name
 
-> 
+'process / file_name' > file_name 
 
->> 
+'process / file_name' >> file_name 
 
 ps 
 
@@ -24,5 +24,12 @@ time
 
 cd ..
 
-cd ~ 
+cd ~  
+go to home directory
+
+cat file_name
+read a file sequentially 
+
+man 'command'
+checkout details about a manual page. 
 
