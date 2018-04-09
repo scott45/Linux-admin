@@ -49,3 +49,16 @@ read a file sequentially
 man 'command'
 checkout details about a manual page. 
 
+
+less file_name
+paging data of a file
+
+sort
+organizing output
+
+ls 
+directory listings
+
+rm 
+delete
+
