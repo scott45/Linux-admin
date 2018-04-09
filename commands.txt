@@ -1,6 +1,8 @@
-mkdir
+mkdir dir_name
+create a new directory
 
 cd dir_name
+change to a directory
 
 touch file_name
 create a new file
