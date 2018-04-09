@@ -97,3 +97,9 @@ run upgrades on already installed packages
 &&
 run many commands in sequence
 apt-get install && apt-get upgrade && ls -l
+
+!cat !grep 
+recall full previous ran command starting with either cat, or grep
+
+pwd
+state current working directory
